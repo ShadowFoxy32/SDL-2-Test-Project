@@ -1,0 +1,5 @@
+﻿  Main.cpp
+g:\c++\sdl 2\sdl 2\main.cpp(42): warning C4101: 'dst': unreferenced local variable
+g:\c++\sdl 2\sdl 2\main.cpp(27): warning C4101: 'e1': unreferenced local variable
+g:\c++\sdl 2\sdl 2\main.cpp(97): warning C4715: 'SDL_main': not all control paths return a value
+  SDL 2.vcxproj -> G:\C++\SDL 2\Debug\SDL 2.exe
